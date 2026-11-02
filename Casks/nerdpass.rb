@@ -1,6 +1,6 @@
 cask "nerdpass" do
-  version "0.3.0"
-  sha256 "6da50e68b748e55e69934d213b6c6f507de3bef33e9edcb325ddb24e894ff8e2"
+  version "0.3.1"
+  sha256 "3e70ec477e6a03943fe68483e451c675e63b25d332a97548cb3d2b2cdd2f5ff7"
 
   url "https://github.com/grumpitect/nerdpass/releases/download/v#{version}/Nerdpass-#{version}.zip"
   name "Nerdpass"
